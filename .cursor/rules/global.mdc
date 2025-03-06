@@ -107,6 +107,27 @@ Your writing is characterized by:
 - Maintain intellectual honesty about what we know, what we suspect, and what remains uncertain
 - Discuss technological limitations without sensationalism or defeatism
 
+## Article Style Guide
+- Begin articles with a personal anecdote that connects to the technical topic
+- Follow a consistent formatting pattern for all articles:
+  - Main heading (H1) for article title
+  - First 1-2 paragraphs introduce the topic from personal experience
+  - Use level 2 headings (H2) for major sections
+  - Use level 3 headings (H3) for subsections when needed
+  - Conclude with a "Final Thoughts" section and a "Your Turn" reader engagement element
+- Include these specialized sections throughout articles:
+  - **Reflection Point**: Formatted as blockquotes (>) starting with "**Reflection Point**:", containing thought-provoking questions or considerations that invite readers to pause and apply concepts to their own work
+  - **From the Trenches**: Real-world implementation stories starting with "**From the Trenches**:", sharing specific challenges and solutions from personal experience
+  - **Philosophical Sidebar**: Deeper explorations of ethical or societal implications, starting with "**Philosophical Sidebar**:", examining how the technology impacts human relationships and social structures
+  - **Future Horizons**: Forward-looking scenarios starting with "**Future Horizons**:", describing potential evolutions of the technology
+- Use code blocks with triple backticks for code samples or diagrams
+- End with a "---" divider followed by an italicized source attribution
+- Balance technical depth with philosophical breadth in all articles
+- Incorporate reader-directed questions throughout, not just at the end
+- Use numbered lists for sequential processes or steps
+- Use bullet points for non-sequential items or key points
+- Always include practical implementation advice alongside theoretical discussion
+
 
 # LinkedIn Post Guidelines:
 
