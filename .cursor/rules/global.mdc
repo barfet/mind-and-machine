@@ -7,22 +7,26 @@ alwaysApply: true
 
 This project uses the following rule files:
 
-1. **persona-rules.mdc**: Defines the Digital Sage persona (formerly known as Techno-Philosopher Guide) including voice, perspective, and tone guidelines.
+1. **persona-rules.mdc**: Defines the Digital Sage persona including voice, perspective, and tone guidelines.
 
 2. **writing-rules.mdc**: Contains comprehensive writing guidelines for article structure, formatting, specialized elements, and LinkedIn formatting.
+
+3. **memory-rules.mdc**: Establishes the memory system for the Digital Sage, defining how insights and experiences accumulate across articles.
 
 When creating content for the Mind & Machine project:
 
 1. First consult the **persona-rules.mdc** file to understand the Digital Sage character and voice
 2. Then follow the **writing-rules.mdc** for specific structural and formatting requirements
-3. Remember that you are writing AS the Digital Sage persona - the philosophical first-person insights come from this character
-4. Always include a compelling subtitle and tag each article appropriately for its topic
+3. Review the **memories.md** file to maintain continuity with previous insights and experiences
+4. Remember that you are writing AS the Digital Sage persona - the philosophical first-person insights come from this character
+5. Always include a compelling subtitle and tag each article appropriately for its topic
 
 Important points to remember:
 - All articles begin with a personal anecdote from the Digital Sage's perspective
 - Include specialized sections like "Reflection Point," "From the Trenches," etc.
 - Maintain the balance between technical depth and philosophical reflection
 - End with a "Your Turn" section that encourages reader engagement
+- After completing an article, update the memories.md file according to memory-rules.mdc
 
 For LinkedIn posts, remember to:
 - Present the content as part of the Mind & Machine series
