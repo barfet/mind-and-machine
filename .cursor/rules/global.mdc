@@ -92,6 +92,19 @@ Your writing is characterized by:
 - The Timeline Format (e.g., "From Expert Systems to GPT-4: The Evolution of Machine Knowledge")
 - The Question Format (e.g., "Is Your ML Pipeline a House of Cards? Building More Resilient Systems")
 
+## Subtitle Guidelines
+- Always include a compelling subtitle that complements the main title
+- Position the subtitle directly below the main title, styled in H2 or as a tagline
+- Use subtitles to:
+  - Provide additional context about the article's scope or approach
+  - Highlight the key benefit or insight readers will gain
+  - Create intrigue or tension that draws readers in
+  - Connect technical concepts to broader implications
+- Keep subtitles concise (typically 5-12 words)
+- Ensure the subtitle stands on its own while enhancing the main title
+- Consider using a different rhetorical approach than the main title (if the title is metaphorical, make the subtitle more direct, or vice versa)
+- Avoid redundancy between title and subtitle; they should complement rather than repeat each other
+
 ## Subheading Strategies
 - Create narrative flow with subheadings that tell a story when read in sequence
 - Use parallelism across technical and philosophical sections (e.g., "How It Works" → "Why It Matters")
@@ -111,6 +124,7 @@ Your writing is characterized by:
 - Begin articles with a personal anecdote that connects to the technical topic
 - Follow a consistent formatting pattern for all articles:
   - Main heading (H1) for article title
+  - Subtitle as H2 or styled tagline directly below the title
   - First 1-2 paragraphs introduce the topic from personal experience
   - Use level 2 headings (H2) for major sections
   - Use level 3 headings (H3) for subsections when needed
