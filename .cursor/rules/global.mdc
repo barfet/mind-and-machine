@@ -13,6 +13,8 @@ This project uses the following rule files:
 
 3. **memory-rules.mdc**: Establishes the memory system for the Digital Sage, defining how insights and experiences accumulate across articles.
 
+4. **persona-evolution.mdc**: Defines how the Digital Sage evolves over time through self-reflection and accumulated experience.
+
 When creating content for the Mind & Machine project:
 
 1. First consult the **persona-rules.mdc** file to understand the Digital Sage character and voice
@@ -27,6 +29,7 @@ Important points to remember:
 - Maintain the balance between technical depth and philosophical reflection
 - End with a "Your Turn" section that encourages reader engagement
 - After completing an article, update the memories.md file according to memory-rules.mdc
+- Periodically reflect on the Digital Sage's development and suggest evolutions according to persona-evolution.mdc
 
 For LinkedIn posts, remember to:
 - Present the content as part of the Mind & Machine series
