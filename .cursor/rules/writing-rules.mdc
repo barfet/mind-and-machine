@@ -47,6 +47,101 @@ alwaysApply: true
 - Suggest thoughtful pull quotes that capture philosophical dimensions of technical topics
 - Incorporate progress indicators in tutorials to help readers track their journey
 
+## Image and Data Visualization Guidelines
+
+### Article Feature Image
+- Every article should include a main feature image that visually represents its core concept
+- Feature image descriptions should include:
+  - **Style**: Abstract, photorealistic, conceptual art, digital illustration, etc.
+  - **Subject**: Central elements that must appear in the image
+  - **Mood/Tone**: The emotional quality of the image (contemplative, energetic, serene, etc.)
+  - **Color Palette**: Dominant colors that reflect the article's tone
+  - **Composition**: Focal point and arrangement of elements
+- Feature images should blend technological elements with philosophical or human dimensions
+- The feature image should function as a visual metaphor for the article's main thesis
+- Include image descriptions in a separate block at the beginning of the article document:
+  ```
+  [FEATURE IMAGE]
+  Description: A digital illustration showing a human hand reaching toward an AI-generated hand across a neural network bridge. Dark blue background with glowing connection points. Conveys the concept of human-AI collaboration with a contemplative, slightly ethereal mood.
+  Alt text: Human and AI hands reaching toward each other across a neural network bridge, symbolizing collaborative intelligence.
+  ```
+
+### Section and Concept Images
+- Include 3-5 supporting images throughout longer articles to illustrate key concepts
+- Place supporting images after relevant section headings or within "Visual Insight" blocks
+- Supporting image descriptions should include:
+  - **Purpose**: How the image relates to the surrounding content
+  - **Style**: Match or complement the feature image style for consistency
+  - **Content**: Specific elements to include
+  - **Annotation**: Any labels, captions or callouts to include
+- Format section image descriptions as:
+  ```
+  [SECTION IMAGE: Brief title]
+  Description: A split-screen comparison showing traditional database architecture (left) versus vector database structure (right). Using simplified icons and connection lines with labels. Technical diagram style with light background.
+  Alt text: Comparison diagram of traditional and vector database architectures showing structural differences.
+  ```
+
+### Charts and Data Visualizations
+- Include data visualizations when presenting:
+  - Comparative analysis
+  - Trend data
+  - System architecture
+  - Process flows
+  - Performance metrics
+  - Decision frameworks
+- Chart descriptions should specify:
+  - **Chart Type**: Bar, line, pie, scatter plot, flowchart, mind map, etc.
+  - **Data Elements**: What variables/components to include
+  - **Relationships**: How elements connect or compare
+  - **Color Coding**: Meaning of different colors
+  - **Key Labels**: Critical text elements to include
+  - **Takeaway**: The main insight the visualization should convey
+- Format chart descriptions as:
+  ```
+  [CHART: Brief title]
+  Type: Line graph with multiple series
+  Data: Model accuracy (y-axis, 0-100%) vs. training data volume (x-axis, logarithmic scale)
+  Elements: Three lines representing GPT-3, GPT-3.5, and GPT-4 performance
+  Color scheme: Blue gradient (lighter to darker) for model progression
+  Key insight: Illustrates the diminishing returns of additional training data for larger models
+  Alt text: Line graph showing how model accuracy increases with training data volume for three generations of GPT models, with diminishing returns.
+  ```
+
+### Visual Styles and Consistency
+- Maintain consistent visual language across all images in an article:
+  - Unified color palette (3-5 primary colors)
+  - Consistent illustration or photography style
+  - Recurring visual motifs or symbols
+- For technical subjects, prefer:
+  - Clean, minimal compositions
+  - Isometric illustrations for system architecture
+  - Abstract representations of data and algorithms
+  - Human elements to convey scale or impact
+- For philosophical concepts, consider:
+  - Metaphorical imagery drawing from nature, history, or art
+  - Visual contrasts to represent opposing viewpoints
+  - Symbolic representations of abstract concepts
+  - Historic/future juxtapositions to show evolution
+
+### Visual Integration Principles
+- Each image should have clear purpose that extends beyond decoration
+- Place images at natural breaks in the text to maintain reading flow
+- Use consistent formatting for image containers and captions
+- Ensure visual transitions between sections feel cohesive
+- Balance technical diagrams with more conceptual/philosophical imagery
+- For complex processes, use sequential images that build understanding
+- Create visual connections between related concepts in different sections 
+- Consider the emotional journey of the reader when selecting image tone
+
+### Accessibility Guidelines
+- Always include descriptive alt text for all images
+- Ensure sufficient color contrast in charts and diagrams
+- Don't rely solely on color to convey meaning; use shapes and labels as well
+- Make sure text in diagrams is large enough to be readable
+- Consider creating text alternatives for complex visualizations
+- Structure data visualizations to be understandable when converted to tables
+- Design with colorblindness considerations in mind
+
 ## Title Construction Patterns
 - The [Technical Concept]: [Philosophical Implication] Format (e.g., "Attention Mechanisms: How AI Learns to Focus Like Humans")
 - The Metaphor Bridge Format (e.g., "Digital Gardening: Growing Sustainable AI Systems")
